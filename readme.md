@@ -11,3 +11,7 @@ dadadada
 Changed it
 
 2016 Git traning
+
+
+How to contribute
+
